@@ -4,6 +4,7 @@ Program designed to info about books and authors using [Gutendex's API](https://
 
 ---
 You will be able to:
+
                1 - Search book by title       
                2 - Show registered books and their stats 
                3 - Show books by language                            
