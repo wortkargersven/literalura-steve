@@ -1,6 +1,6 @@
 # Literalura
 
-Program designed to info about books and authors using [Gutendex's API](https://gutendex.com/)
+Program designed to get info about books and their authors using [Gutendex's API](https://gutendex.com/)
 
 ---
 You will be able to:
